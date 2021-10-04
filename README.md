@@ -15,3 +15,7 @@ Practice on flexbox and responsive design, goal is to use the following design s
 ## Design Spec
 
 ![Design spec](./img/img-tea-cozy-redline.jpg)
+
+## Result
+
+[Deployement](https://maitre-pangolin.github.io/FlexBox_TeaCozy/)
